@@ -1,0 +1,49 @@
+
+.body {
+
+  margin:0px;
+}
+.apj {
+  height: 100vh;
+  background-color: #e5e5fd;
+  border: 8px solid black;
+  font-family: 'Inter', sans-serif;
+  letter-spacing: 0.039rem;
+  line-height: 1.4rem;
+}
+.name_apj{
+  position: absolute;
+  left: 50vw;
+  bottom: 70vh;
+  font-size: 40px;
+
+}
+.name_apj p{
+  font-size: 12px;
+  padding-left: 29vw;
+}
+.pic_apj {
+  width: 20rem;
+  height: auto;
+  margin: 20px;
+  border-radius: 170rem;
+  border: 2px solid gold;
+}
+.list_apj {
+  font-size: 14px;
+}
+.list_apj p{
+  font-size:20px;
+}
+
+.bio_apj {
+  padding-left: 37px;
+  padding-right: 37px;
+}
+.bio_apj h1 {
+  font-size: 40px;
+}
+.read_apj{
+  margin-left:57vw;
+  margin-top:43px;
+}
